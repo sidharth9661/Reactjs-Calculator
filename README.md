@@ -9,7 +9,7 @@ One of the standout features of this calculator is its ability to store calculat
 ### Process to Run
 
 1. Clone the repo:
-2. cd TerriblyTinyTale
+2. cd Reactjs-calculator
 3. npm i or npm -f install
 4. npm start
 
